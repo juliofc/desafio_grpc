@@ -7,7 +7,7 @@ Projeto criado para o desafio de gRPC
 **Passo 1:** Faça o clone do projeto no diretório de sua preferência.
 
 ```shell
-git clone github.com/juliofc/desafio_grpc
+git clone https://github.com/juliofc/desafio_grpc
 ```
 
 **Passo 2:** Acesse o diretório do projeto e suba o servidor
